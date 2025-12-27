@@ -1,0 +1,10 @@
+django
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+social-auth-app-django
+python-dotenv
+psycopg2-binary
+scikit-learn
+pandas
+numpy
